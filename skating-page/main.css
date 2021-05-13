@@ -24,10 +24,32 @@ button.coolStuffBtn{
     margin: auto;
 }
 
-h5.modal-title{
+h5.modal-title {
     margin:auto; 
 }
 
 .modalFormWrapper {
     padding: 2rem;
+}
+
+.tempSize {
+    height: 315px;
+    width: 315px;
+}
+
+.imgCenter {
+    display: block;
+    margin: auto;
+}
+
+.btnCenter {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 54%;
+}
+
+.sectionLight{
+    padding-top: 30px;
 }
