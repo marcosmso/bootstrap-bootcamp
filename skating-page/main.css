@@ -5,7 +5,7 @@
 
 .sectionLight{
     background-color: #eceeef;
-    padding-bottom:20px
+    padding-bottom:100px
 }
 
 .sectionDark{
@@ -52,6 +52,7 @@ h5.modal-title {
 
 .sectionLight{
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .footerImg {

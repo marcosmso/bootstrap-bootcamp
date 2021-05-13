@@ -6,6 +6,8 @@ to use bootstrap in HTML/SCC/Javascript websites.
 ### Container, Row, Col
 Contains a index.html script with a simple example on 
 how to use Bootstrap 4 grid system.
+It is a good project to start a brand new one, once all
+Bootstrap files references are already done. 
 
 ### Sign in webpage
 Used container, image, forms, button, checkbox and hyperlinks
